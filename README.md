@@ -77,4 +77,8 @@ Dashboard Design
 
 Analytical Thinking
 
-Business Insight Generation# Spotify-Dashboard
+Business Insight Generation# Spotify-Dashboard  
+
+ 🔹 Dashboard Preview
+
+[Spotify Dashboard]()
