@@ -81,4 +81,4 @@ Business Insight Generation# Spotify-Dashboard
 
  🔹 Dashboard Preview
 
-[Spotify Dashboard]()
+[Spotify Dashboard](https://github.com/vrush111/Spotify-Dashboard/blob/main/Screenshots%20of%20spotify%20Dashboard.png)
